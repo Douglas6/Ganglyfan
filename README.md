@@ -1,2 +1,2 @@
 # Ganglyfan
-Acrylic laser-cut file for Gangly Fan
+Acrylic case for Gangly Fan
