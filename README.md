@@ -1,2 +1,2 @@
 # Ganglyfan
-Acrylic case for Gangly Fan
+Everything you'll need to build your own Gangly Fan
