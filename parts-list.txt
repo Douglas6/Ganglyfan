@@ -1,8 +1,9 @@
 This list contains parts and Amazon links for the electronics used in the Gangly Fan. 
-For a laser-cutting template, see ganglyfan.svg.
+For a laser-cutting template for the acrylic case, see ganglyfan.svg.
 
 
 (1) Fan: https://www.amazon.com/gp/aw/d/B07CG2PGY6
+(1) Fan filter: https://www.amazon.com/120mm-Computer-Filter-Dustproof-PVC/dp/B07PXK2HWX
 (1) 12V adapter: https://www.amazon.com/gp/aw/d/B0852HX9HV
 (4) Feet: https://www.amazon.com/Adhesive-Electronics-Speakers-Computers-Keyboard/dp/B085DMB1XV
 (1) Switch: https://www.amazon.com/QTEATAK-KCD1-01-Pre-Wired-Position-Switch-5Pack/dp/B09TDHJDBQ
