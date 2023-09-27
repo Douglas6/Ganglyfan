@@ -1,5 +1,5 @@
 This list contains parts and Amazon links for the electronics used in the Gangly Fan. 
-For a laser-cutting template for the acrylic case, see ganglyfan.svg.
+For a laser-cutting template for the acrylic case, see gangly_fan.svg.
 
 
 (1) Fan: https://www.amazon.com/gp/aw/d/B07CG2PGY6
