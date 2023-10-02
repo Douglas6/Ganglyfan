@@ -1,4 +1,4 @@
-# Ganglyfan
+# Gangly Fan
 Everything you'll need to build your own Gangly Fan
 
 See the parts list, more for the specifications of the parts than a source. You may have some of these on-hand. 
