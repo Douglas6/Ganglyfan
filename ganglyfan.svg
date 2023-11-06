@@ -25,7 +25,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.1893044"
-     inkscape:cx="146.72442"
+     inkscape:cx="102.16056"
      inkscape:cy="314.46953"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
@@ -250,9 +250,9 @@
        inkscape:label="Layer 1"
        id="layer1-6"
        style="display:inline"
-       transform="translate(-116.63165,-77.309559)"><g
+       transform="matrix(1.0020922,0,0,1.0234448,-117.75136,-80.719804)"><g
          id="g445"
-         transform="matrix(0,-1,-1,0,157.4817,206.63301)"><g
+         transform="matrix(0,-1,-1,0,159.06588,206.63301)"><g
            id="layer2-0"
            inkscape:label="Bottom"><g
              inkscape:groupmode="layer"
@@ -326,4 +326,12 @@
                  id="path733-8"
                  style="display:inline;fill:#000000;fill-opacity:1"
                  transform="matrix(0.03582759,0,0,0.03582759,25.718624,146.57043)"
-                 inkscape:label="G" /></g></g></g></g></g></g></svg>
+                 inkscape:label="G" /></g></g></g></g><rect
+         style="fill:none;stroke:#0000ff;stroke-width:0.01;stroke-opacity:1"
+         id="rect328"
+         width="135.70607"
+         height="117.24115"
+         x="121.50216"
+         y="83.761162"
+         rx="5.1079035"
+         ry="3.5506189" /></g></g></svg>
